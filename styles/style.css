@@ -232,7 +232,7 @@ footer {
 }
 
 .container_awarded {
-  grid-column: 2/12;
+  grid-column: 4/10;
   grid-row: 2;
   padding: 3em;
   display: grid;
